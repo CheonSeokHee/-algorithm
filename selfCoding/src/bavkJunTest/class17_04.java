@@ -1,8 +1,6 @@
 package bavkJunTest;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 import java.util.Stack;
 
@@ -42,6 +40,7 @@ public class class17_04 {
 			}
 
 			if (!stack.isEmpty())
+				
 				System.out.println("no");
 			else
 				System.out.println("yes");
